@@ -1,2 +1,2 @@
-# devopswithdocker
-Devopswithdocker course exercises
+# Devops with Docker
+devopswithdocker.com course exercises
